@@ -59,3 +59,8 @@ cd frontend && npm install && npm run dev
 | Approved Classroom View (Teacher) | Approved Status View (Student) |
 | :---: | :---: |
 | ![Approved Teacher View](./screenshots/teacher_dashboard_after_approving.png) | ![Approved Student View](./screenshots/student_dashboard_status_approved.png) |
+---
+### 6. Application Demo
+| **Application Video Walkthrough** |
+| :---: |
+| <video width="100%" controls><source src="./screenshots/application_demo.mp4" type="video/mp4">Your browser does not support the video tag.</video> |
