@@ -60,8 +60,3 @@ cd frontend && npm install && npm run dev
 | :---: | :---: |
 | ![Approved Teacher View](./screenshots/teacher_dashboard_after_approving.png) | ![Approved Student View](./screenshots/student_dashboard_status_approved.png) |
 ---
-## 6. Application Demo
-
-Click below to watch the full application walkthrough video:
-
-[![Watch the Application Demo Video](./screenshots/login_page.png)](./screenshots/application_demo.mp4)
